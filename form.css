@@ -1,0 +1,13 @@
+body{
+	align:center;
+	border:4px ridge #000000;
+	box-shadow: 4px 7px 13px 2px #000000;
+	background-color:#FFFF99;
+	border-radius:20px;
+	font-family:  "Courier New", Courier, monospace;
+	font-size: 20px;
+	word-spacing: 2px;
+	color: #000000;
+	font-weight: 700;
+	font-style:italic;
+}
